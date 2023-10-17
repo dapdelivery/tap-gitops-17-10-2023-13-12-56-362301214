@@ -1,0 +1,7 @@
+---
+git:
+  url: https://github.com/dapdelivery/tap-gitops-17-10-2023-13-12-56-362301214.git
+  ref: origin/master
+  sub_path: clusters/auto-aks-ngjwlkevah-3/cluster-config
+tap_package_repository:
+  oci_repository: registry.tanzu.vmware.com/tanzu-application-platform/tap-packages
